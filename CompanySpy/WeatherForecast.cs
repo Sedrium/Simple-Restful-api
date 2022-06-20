@@ -1,6 +1,6 @@
 using System;
 
-namespace CompanySpy
+namespace CompanySpy.Api
 {
     public class WeatherForecast
     {
