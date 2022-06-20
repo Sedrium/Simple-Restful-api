@@ -1,4 +1,4 @@
-CompanySpy/obj/*
-CompanySpy/bin/*
 CompanySpy/.vs/*
 .vs/*
+*/bin/*
+*/obj/*
